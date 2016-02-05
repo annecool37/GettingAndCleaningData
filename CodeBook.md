@@ -15,5 +15,10 @@ df: merged dataset of testData and trainData <br />
 tidyData: final tidy dataset with mean of each variables for each activitie and subject <br />
 
 ## The data
+Data source: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 ## Transformations made
+1. Merges the training and the test sets to create one data set. <br />
+2. Relabels the data set with descriptive variable names. <br />
+3. Creates an independent tidy data set with the average of each variable for each activity and each subject. <br />
+
