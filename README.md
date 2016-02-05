@@ -1,5 +1,4 @@
-# GettingAndCleaningData
-Getting and Cleaning Data Course Project
+# Coursera: Getting and Cleaning Data Course Project
 
 ## Final Analysis File
 A data set with the average of each variable for each activity and each subject in test and tranining file.
