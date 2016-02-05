@@ -18,7 +18,10 @@ tidyData: final tidy dataset with mean of each variables for each activitie and 
 Data source: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 ## Transformations made
-1. Merges the training and the test sets to create one data set. <br />
-2. Relabels the data set with descriptive variable names. <br />
-3. Creates an independent tidy data set with the average of each variable for each activity and each subject. <br />
+1. Label test and traning data with features
+2. Extract means and standard deviations
+3. Reformat activity from ID to activity name
+2. Merges the training and the test sets to create one data set. <br />
+3. Relabels the data set with descriptive variable names. <br />
+4. Creates an independent tidy data set with the average of each variable for each activity and each subject. <br />
 
